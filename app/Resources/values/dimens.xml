@@ -1,0 +1,4 @@
+﻿<resources>
+  <dimen name="value_30">30dp</dimen>
+  <dimen name="value_50">50dp</dimen>
+</resources>
